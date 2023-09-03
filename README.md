@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![profilebanner](https://github.com/JwL-01/JwL-01/assets/38309953/b76516e9-fb2a-42f7-93bc-7b36738bf785)
+
+
 <!--
 **JwL-01/JwL-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
