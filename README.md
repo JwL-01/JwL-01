@@ -5,10 +5,10 @@ Hello! My name is Jacky Li. I am a student at Simon Fraser University pursuing a
 
 I am continuously on the lookout for new challenges and opportunities for growth, committing myself to hone my programming and game development skills. My enthusiasm revolves around exploring technologies to create innovative and immersive games that captivate a global audience. By combining my experiences at Offworld Industries and my academic pursuits at Simon Fraser University, I am steadily constructing a solid foundation for a promising career in the video game industry.
 
-🔭 I’m currently working on my first-person shooter game!
-🌱 I’m currently learning gameplay mechanics
-💬 Ask me about your favourite video game
-⚡ Fun fact: I am an avid snowboarder and gym enjoyer
+- 🔭 I’m currently working on my first-person shooter game!
+- 🌱 I’m currently learning gameplay mechanics
+- 💬 Ask me about your favourite video game
+- ⚡ Fun fact: I am an avid snowboarder and gym enjoyer
 
 I'm excited about connecting with fellow professionals who share my passion for gaming and technology, and I look forward to discovering new possibilities and forming meaningful connections on Linkedin. Thank you for taking the time to learn more about me.
 
