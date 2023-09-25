@@ -1,7 +1,7 @@
 ![profilebannerv3](https://github.com/JwL-01/JwL-01/assets/38309953/fba2d06c-3187-4024-a91e-01460b46bc07)
 
 
-Hello! My name is Jacky Li. I am a student at Simon Fraser University pursuing a Computer Science degree. My passion for gaming has led to an exciting role at Offworld Industries, the developers behind the popular game Squad, where I had the opportunity to contribute as a co-op programmer.
+Hello! My name is Jacky. I am a student at Simon Fraser University pursuing a Computer Science degree. My passion for gaming has led to an exciting role at Offworld Industries, the developers behind the popular game Squad, where I had the opportunity to contribute as a co-op programmer.
 
 I am continuously on the lookout for new challenges and opportunities for growth, committing myself to hone my programming and game development skills. My enthusiasm revolves around exploring technologies to create innovative and immersive games that captivate a global audience. By combining my experiences at Offworld Industries and my academic pursuits at Simon Fraser University, I am steadily constructing a solid foundation for a promising career in the video game industry.
 
