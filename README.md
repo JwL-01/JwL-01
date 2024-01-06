@@ -10,7 +10,7 @@ I am continuously on the lookout for new challenges and opportunities for growth
 - 💬 Ask me about your favourite video game
 - ⚡ Fun fact: I am an avid snowboarder and gym enjoyer
 
-I'm excited about connecting with fellow professionals who share my passion for gaming and technology, and I look forward to discovering new possibilities and forming meaningful connections on Linkedin. Thank you for taking the time to learn more about me.
+I'm excited about connecting with fellow professionals who share my passion for gaming and technology, and I look forward to discovering new possibilities and forming meaningful connections. Thank you for taking the time to learn more about me.
 
 <!--
 **JwL-01/JwL-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
