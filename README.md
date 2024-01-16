@@ -1,7 +1,10 @@
 ![profilebannerv3](https://github.com/JwL-01/JwL-01/assets/38309953/fba2d06c-3187-4024-a91e-01460b46bc07)
 
 
-Hello! My name is Jacky and I am a student at Simon Fraser University pursuing a Computer Science degree. My passion for gaming has led to an exciting role at Offworld Industries, the developers behind the popular game Squad, where I had the opportunity to contribute as a co-op programmer.
+Hello! My name is Jacky and I am a student at Simon Fraser University pursuing a Computer Science degree.
+
+
+My passion for gaming has led to an exciting role at Offworld Industries, the developers behind the popular game Squad, where I had the opportunity to contribute as a co-op programmer.
 
 - 🔭 I’m currently working on my first-person shooter game!
 - 🌱 I’m currently learning X86-64 Assembly.
