@@ -7,7 +7,7 @@ Hello! My name is Jacky and I am a student at Simon Fraser University pursuing a
 My passion for gaming has led to an exciting role at Offworld Industries, the developers behind the popular game Squad, where I had the opportunity to contribute as a co-op programmer.
 
 - 🔭 I’m currently working on my first-person shooter game, **Decay Defenders**!
-- 🌱 I’m currently learning Linux C programming using Docker containers.
+- 🌱 I’m currently learning interning at A Shell in The Pit!
 
 I'm excited about connecting with fellow professionals who share my passion for gaming and technology, and I look forward to discovering new possibilities and forming meaningful connections. Thank you for taking the time to learn more about me.
 
